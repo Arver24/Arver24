@@ -1,4 +1,4 @@
 ###
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead]header.png]github.com/Arver24
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
