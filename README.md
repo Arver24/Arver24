@@ -20,5 +20,5 @@
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="java" width="30" height="30"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/> </a>
  </p>
