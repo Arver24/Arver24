@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=Arver24&color=dc143c)
+
 [![MasterHead](header.png)](github.com/Arver24)
 
 
@@ -30,3 +30,4 @@
 <p><h3 align="left">Github streaks:</h3></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arver24&theme=tokyonight&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=Arver24&color=dc143c)
