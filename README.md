@@ -21,6 +21,6 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="java" width="30" height="30"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> </a>
  </p>
