@@ -31,4 +31,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arver24&theme=tokyonight&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arver24)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Arver24&color=dc143c)
