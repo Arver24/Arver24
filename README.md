@@ -48,7 +48,4 @@ This is where I make stuff (mostly try and fail many times<source srcset="https:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arver24&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Arver24&color=dc143c)
-<br><span style="font-size:10px;">
-CREDITS:
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-</span>
+
