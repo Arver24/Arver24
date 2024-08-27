@@ -12,6 +12,7 @@ This is where I make stuff (mostly try and fail many times<source srcset="https:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:arver2405@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/archit-verma-609022204/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/480px-LinkedIn_icon.svg.png" alt="" height="40" width="40" /></a>
 <a href="https://twitter.com/Arver24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/240px-X_icon_-_Gray.svg.png" alt="" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCTocR0HppIQFR9fSSxL2gbA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="" height="40" width="40" /></a>
