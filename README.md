@@ -4,8 +4,7 @@
 # Hello There <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 This is where I make stuff (mostly try and fail many times<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.gif" alt="🫠" width="32" height="32">)
 * 🔭 I’m currently working on: A lot of stuff
-* 🌱 I’m currently learning: Generative AI and Deep RL
-* 💬 Ask me about: Mostly anything related to ML
+* 🌱 I’m currently learning: too much stuff at once
 * ❤️ I love photography, reading/writing books, and gaming
 
 
